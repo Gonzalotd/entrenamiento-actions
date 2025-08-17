@@ -5,4 +5,3 @@ black==25.1.0
 pytest==8.4.1 
 pylint==3.3.8
 astroid==3.3.11
-Python==3.13.7 
